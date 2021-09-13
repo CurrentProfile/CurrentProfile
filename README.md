@@ -69,4 +69,4 @@
     </a>
 </div>
 
-<p id="readme-footer" align="center">CL 2021 <a id="readme-footer-project" href="./">CurrentProfile</a><br>&lt;/&gt; with ❤ by <a id="readme-footer-author" href="https://github.com/AlexAnimateMP4" target="_blank">Alex Animate Mp4</a> and <a id="readme-footer-contributors" href="https://github.com/CurrentProfile/CurrentProfile/graphs/contributors">contributors</a>.</p>
+<p id="readme-footer" align="center">CL 2021 <a id="readme-footer-project" href="https://github.com/CurrentProfile/CurrentProfile/">CurrentProfile</a><br>&lt;/&gt; with ❤ by <a id="readme-footer-author" href="https://github.com/AlexAnimateMP4" target="_blank">Alex Animate Mp4</a> and <a id="readme-footer-contributors" href="https://github.com/CurrentProfile/CurrentProfile/graphs/contributors">contributors</a>.</p>

@@ -1,3 +1,12 @@
+<h1>0.1.1</h1>
+<h3>Fixed:</h3>
+<ul>
+    <h3>README.md</h3>
+    <li>Redirection of the project in the footer changed with the address of the Github repository.</li>
+</ul>
+
+<hr>
+
 <h1>0.1.0</h1>
 <blockquote>
     <p>Initial commit</p>
