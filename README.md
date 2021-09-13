@@ -1,7 +1,7 @@
 <div id="readme-head" align="center">
     <h1 id="readme-title">CurrentProfile</h1>
     <h4 id="readme-description">My profile in real time!</h4>
-    <a id="readme-shield-last-commit" href="https://github.com/CurrentProfile/CurrentProfile/commits/master">
+    <a id="readme-shield-last-commit" href="https://github.com/CurrentProfile/CurrentProfile/commits/main">
         <img id="readme-shield-last-commit-img" src="https://img.shields.io/github/last-commit/CurrentProfile/CurrentProfile" alt="Last commit" />
     </a>
     <a id="readme-shield-release-date" href="https://github.com/CurrentProfile/CurrentProfile/releases/latest">

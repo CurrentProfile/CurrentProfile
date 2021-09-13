@@ -1,3 +1,26 @@
+<h1>0.1.2</h1>
+<h3>Added:</h3>
+<ul>
+    <h3>.gitignore</h3>
+    <li>Added multiple ignored files:
+        <ul>
+            <li>
+                <p>CHANGELOG.html</p>
+            </li>
+            <li>
+                <p>README.html</p>
+            </li>
+        </ul>
+    </li>
+</ul>
+<h3>Fixed:</h3>
+<ul>
+    <h3>README.md</h3>
+    <li>Redirection of the last commit modified with the value <code>main</code>.</li>
+</ul>
+
+<hr>
+
 <h1>0.1.1</h1>
 <h3>Fixed:</h3>
 <ul>
